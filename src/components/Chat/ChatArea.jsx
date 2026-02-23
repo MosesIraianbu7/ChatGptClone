@@ -2,7 +2,7 @@ import { Box, IconButton, Typography } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import ChatInput from "./ChatInput";
 import ChatMessages from "./ChatMessages";
-import ChatHeader from "./ChatHeader";
+import ChatHeader from "../Layout/ChatHeader";
 
 
 export default function ChatArea({

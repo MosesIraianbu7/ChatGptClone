@@ -1,7 +1,7 @@
 import { Box } from "@mui/material";
 import { useState } from "react";
-import Sidebar from "./components/Sidebar";
-import ChatArea from "./components/ChatArea";
+import Sidebar from "./components/Layout/Sidebar";
+import ChatArea from "./components/Chat/ChatArea";
 
 function App() {
   const [drawerOpen, setDrawerOpen] = useState(true);
