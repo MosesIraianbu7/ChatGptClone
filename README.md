@@ -60,15 +60,15 @@ response logic.
 # 📸 Application Preview
 
 ## 🖥️ ChatGpt Preview
-![Preview Screenshot](src\assets\chatgpt-preview.png)
+![Preview Screenshot](src/assets/chatgpt-preview.png)
 
 ## 🖥️ Greeting Response 
 
-![Greeting Screenshot](src\assets\greetingresponse.png)
+![Greeting Screenshot](src/assets/greetingresponse.png)
 
 ## 🖥️ Multiple Chats
 
-![Multiple Chats Screenshot](src\assets\multiplechats.png)
+![Multiple Chats Screenshot](src/assets/multiplechats.png)
 
 ------------------------------------------------------------------------
 
